@@ -6,6 +6,7 @@ A list of keyboards inspired by the [Hummingbird](https://github.com/PJE66/hummi
 - [Hummingbird](https://github.com/PJE66/hummingbird)
 - [Phantom](https://github.com/davidphilipbarr/Phantom)
 - [Todarodes pacificus](https://github.com/tapioki/cephalopoda/tree/main/Todarodes%20pacificus)
+- [Todarodes sagittatus](https://github.com/tapioki/cephalopoda/tree/main/Todarodes%20sagittatus)
 - [Rufous](https://github.com/jcmkk3/trochilidae#rufous)
 - [Berylline](https://github.com/jcmkk3/trochilidae#berylline)
 - [Flea](https://github.com/jimmerricks/bugs#flea-v01)
