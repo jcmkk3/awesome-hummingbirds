@@ -26,3 +26,4 @@ A list of keyboards inspired by the [Hummingbird](https://github.com/PJE66/hummi
 - [thong](https://github.com/crestofthebeast/thong)
 - [Apodiformbird](https://github.com/Easontons/Apodiformbird)
 - [tern](https://github.com/rschenk/tern)
+- [nostrum](https://github.com/bennytrouser/nostrum)
