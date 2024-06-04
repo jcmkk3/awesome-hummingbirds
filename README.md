@@ -30,3 +30,5 @@ A list of keyboards inspired by the [Hummingbird](https://github.com/PJE66/hummi
 - [Grumpy](https://github.com/weteor/Grumpy)
 - [Buteo](https://github.com/pixelbreaker/buteo)
 - [Tern Ble](https://gitlab.com/gleb_sexy/tern-ble)
+- [Hexapoda](https://github.com/ThePurox/Hexapoda)
+- [Hexingbird](https://git.imaginaerraum.de/Purox/Hexingbrid)
