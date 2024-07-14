@@ -32,3 +32,4 @@ A list of keyboards inspired by the [Hummingbird](https://github.com/PJE66/hummi
 - [Tern Ble](https://gitlab.com/gleb_sexy/tern-ble)
 - [Hexapoda](https://github.com/ThePurox/Hexapoda)
 - [Hexingbird](https://git.imaginaerraum.de/Purox/Hexingbrid)
+- [Goober](https://github.com/doesntfazer/Goober)
