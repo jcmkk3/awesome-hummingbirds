@@ -33,3 +33,4 @@ A list of keyboards inspired by the [Hummingbird](https://github.com/PJE66/hummi
 - [Hexapoda](https://github.com/ThePurox/Hexapoda)
 - [Hexingbird](https://git.imaginaerraum.de/Purox/Hexingbrid)
 - [Goober](https://github.com/doesntfazer/Goober)
+- [ʻākohekohe](https://github.com/grassfedreeve/akohekohe)
