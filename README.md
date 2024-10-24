@@ -36,5 +36,6 @@ A list of keyboards inspired by the [Hummingbird](https://github.com/PJE66/hummi
 - [Hexingbird](https://git.imaginaerraum.de/Purox/Hexingbrid)
 - [Goober](https://github.com/doesntfazer/Goober)
 - [ʻākohekohe](https://github.com/grassfedreeve/akohekohe)
+- [pueo](https://github.com/grassfedreeve/pueo)
 - [Sweep Cat](https://github.com/smallwat3r/sweep-cat)
 - [say gay](https://github.com/chelming/say_gay)
