@@ -41,3 +41,4 @@ A list of keyboards inspired by the [Hummingbird](https://github.com/PJE66/hummi
 - [Sweep Cat](https://github.com/smallwat3r/sweep-cat)
 - [say gay](https://github.com/chelming/say_gay)
 - [Smallcat](https://github.com/smallwat3r/smallcat)
+- [menura](https://github.com/rmuraglia/menura-kb)
