@@ -42,3 +42,4 @@ A list of keyboards inspired by the [Hummingbird](https://github.com/PJE66/hummi
 - [say gay](https://github.com/chelming/say_gay)
 - [Smallcat](https://github.com/smallwat3r/smallcat)
 - [menura](https://github.com/rmuraglia/menura-kb)
+- [Wilson26](https://github.com/StephanMoeller/wilson26)
