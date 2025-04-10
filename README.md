@@ -38,6 +38,7 @@ A list of keyboards inspired by the [Hummingbird](https://github.com/PJE66/hummi
 - [ʻākohekohe](https://github.com/grassfedreeve/akohekohe)
 - [pueo](https://github.com/grassfedreeve/pueo)
 - [katori](https://github.com/grassfedreeve/katori)
+- [iiwi](https://github.com/grassfedreeve/iiwi)
 - [Sweep Cat](https://github.com/smallwat3r/sweep-cat)
 - [say gay](https://github.com/chelming/say_gay)
 - [Smallcat](https://github.com/smallwat3r/smallcat)
