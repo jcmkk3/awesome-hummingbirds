@@ -28,6 +28,7 @@ A list of keyboards inspired by the [Hummingbird](https://github.com/PJE66/hummi
 - [tern](https://github.com/rschenk/tern)
 - [Nostrum](https://github.com/bennytrouser/nostrum)
 - [NostrumX](https://github.com/bennytrouser/NostrumX)
+- [Nostrum-Chunky](https://github.com/bennytrouser/Nostrum-Chunky)
 - [Grumpy](https://github.com/weteor/Grumpy)
 - [Fitis](https://github.com/weteor/Fitis)
 - [Buteo](https://github.com/pixelbreaker/buteo)
