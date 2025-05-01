@@ -46,3 +46,4 @@ A list of keyboards inspired by the [Hummingbird](https://github.com/PJE66/hummi
 - [menura](https://github.com/rmuraglia/menura-kb)
 - [Wilson26](https://github.com/StephanMoeller/wilson26)
 - [Orasnica](https://github.com/TvrdRadKeyboards/orasnica)
+- [Charlieflex](https://github.com/ctranstrum/chuck)
