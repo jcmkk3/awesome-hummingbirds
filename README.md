@@ -47,3 +47,4 @@ A list of keyboards inspired by the [Hummingbird](https://github.com/PJE66/hummi
 - [Wilson26](https://github.com/StephanMoeller/wilson26)
 - [Orasnica](https://github.com/TvrdRadKeyboards/orasnica)
 - [Charlieflex](https://github.com/ctranstrum/chuck)
+- [faustus](https://github.com/ulog4l/faustus)
