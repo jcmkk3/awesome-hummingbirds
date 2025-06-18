@@ -49,3 +49,4 @@ A list of keyboards inspired by the [Hummingbird](https://github.com/PJE66/hummi
 - [Charlieflex](https://github.com/ctranstrum/chuck)
 - [faustus](https://github.com/ulog4l/faustus)
 - [Zplitzalp](https://github.com/ThePurox/zplitzalp)
+- [Goober(s)](https://github.com/doesntfazer/Goober)
