@@ -50,3 +50,4 @@ A list of keyboards inspired by the [Hummingbird](https://github.com/PJE66/hummi
 - [faustus](https://github.com/ulog4l/faustus)
 - [Zplitzalp](https://github.com/ThePurox/zplitzalp)
 - [Goober(s)](https://github.com/doesntfazer/Goober)
+- [Visorbearer](https://github.com/carrefinho/visorbearer)
