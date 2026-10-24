@@ -52,3 +52,4 @@ A list of keyboards inspired by the [Hummingbird](https://github.com/PJE66/hummi
 - [Goober(s)](https://github.com/doesntfazer/Goober)
 - [Visorbearer](https://github.com/carrefinho/visorbearer)
 - [Rugby Union](https://codeberg.org/peterjc/pico-keyboards/src/branch/main/rugbyunion)
+- [Fih](https://github.com/tangyboi3/Fih-keeb)
